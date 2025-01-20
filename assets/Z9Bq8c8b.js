@@ -1,0 +1,1 @@
+import{c as o,a as s,e as n,D as a,G as c,o as r,b as l,_ as x}from"./B84bMAOM.js";function _(u,e){const t=c;return r(),o("div",null,[e[1]||(e[1]=s("h1",{class:"text-blue-400 text-2xl"},"Спасибо за покупку!",-1)),n(t,{class:"text-indigo-700",to:"/"},{default:a(()=>e[0]||(e[0]=[l("Назад")])),_:1})])}const d={},f=x(d,[["render",_]]);export{f as default};
